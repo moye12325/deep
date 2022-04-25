@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[398]随机数索引.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/doc/content/[398]随机数索引.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com398" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[398]随机数索引.py" />
+              <option name="titleSlug" value="random-pick-index" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[868]二进制间距.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/doc/content/[868]二进制间距.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com868" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[868]二进制间距.py" />
+              <option name="titleSlug" value="binary-gap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
